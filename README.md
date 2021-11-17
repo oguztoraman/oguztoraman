@@ -1,5 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/{oguztoraman}/count.svg)
-
 ### Hi there 👋
 
 <!--
@@ -16,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Profile Views
+![Visitor Count](https://profile-counter.glitch.me/{oguztoraman}/count.svg)
