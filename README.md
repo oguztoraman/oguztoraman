@@ -3,5 +3,3 @@
 + ⚡ Fun fact: I use [Fedora KDE Spin](https://spins.fedoraproject.org/en/kde/) for both software development and daily use.
 
 ---
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oguztoraman&theme=blue-green)
