@@ -4,4 +4,4 @@
 
 ---
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oguztoraman&langs_count=10&theme=blue-green)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oguztoraman&theme=blue-green)
