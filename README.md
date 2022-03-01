@@ -17,7 +17,7 @@
 
 + C++ STL
 + OpenCV
-+ Boost
++ Boost Asio
 + STM32F4 Hal Drivers
 
 #### Tools & IDEs;
