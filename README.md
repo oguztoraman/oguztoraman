@@ -34,6 +34,7 @@
 + Fedora
 + Ubuntu
 + Linux Mint
++ Raspberry Pi OS
 
 #### Communication Protocols;
 
