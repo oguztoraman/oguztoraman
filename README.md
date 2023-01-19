@@ -8,7 +8,7 @@
 
 #### Programming Languages;
 
-+ C++
++ C++ 98/11/14/17/20
 + C
 + Bash
 + Python
