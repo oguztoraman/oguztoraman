@@ -9,7 +9,7 @@
 
 + Programming Languages; **C++ 98/11/14/17/20**, **C**, Bash, Python.
 + Software Libraries; **C++ STL**, **Boost** (Asio Serial Port, Program Options), OpenCV, STM32F4 Hal Drivers.
-+ Tools & IDEs; **Qt Creator**, Visual Studio Code, Spyder, CMake, GNU Make, Git.
++ Tools & IDEs; Visual Studio Code, Qt Creator, Spyder, CMake, GNU Make, Git.
 + Operating Systems; **Fedora**, Ubuntu, Linux Mint, Raspberry Pi OS.
 + Communication Protocols; UART.
 + Databases; SQLite.
