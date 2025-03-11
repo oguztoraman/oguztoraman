@@ -7,7 +7,7 @@
 
 ## My Skills & Experiences
 
-+ Programming Languages; **C++ 98/11/14/17/20**, **C**, Bash, Python.
++ Programming Languages; **C++ 98/11/14/17/20/23**, **C**, Bash, Python.
 + Software Libraries; **C++ STL**, **Boost** (Asio Serial Port, Program Options), OpenCV, STM32F4 Hal Drivers.
 + Tools & IDEs; Visual Studio Code, Qt Creator, Spyder, CMake, GNU Make, Git.
 + Operating Systems; **Fedora**, Ubuntu, Linux Mint, Raspberry Pi OS.
