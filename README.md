@@ -16,6 +16,8 @@
   
 + **Tools & IDEs**; Visual Studio Code, Qt Creator, Spyder, CMake, GNU Make, Git.
   
++ **AI Tools**; GitHub Copilot, ChatGPT.
+  
 + **Operating Systems**; **Fedora**, Ubuntu, Linux Mint, Raspberry Pi OS.
   
 + **Container Engines**; Podman.
