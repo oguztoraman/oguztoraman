@@ -13,7 +13,9 @@
 + **Programming Languages**; **C++ 98/11/14/17/20/23**, **C**, Bash, Python.
   
 + **Software Libraries**; **C++ STL**, **Boost** (Asio Serial Port, Program Options), OpenCV, STM32 Hal Drivers.
-  
+
++ **Test Frameworks**; GoogleTest.
+
 + **Tools & IDEs**; Git, CMake, GNU Make, Visual Studio Code, Qt Creator.
   
 + **AI Tools**; GitHub Copilot, ChatGPT.
